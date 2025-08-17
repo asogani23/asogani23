@@ -52,7 +52,7 @@ Built gameplay & data infra for THVO; integrated CV pose tracking for embodied l
 ## Contact
 - **Portfolio:** https://asogani23.github.io/
 - **Email:** asogani@wisc.edu  
-- **LinkedIn:**  
+- **LinkedIn:** https://www.linkedin.com/in/aagamsogani/
 
 > I’m looking for **Summer ’26 SWE / AI SWE internships**—happy to share code walk-throughs or demos.
 
