@@ -7,6 +7,9 @@ I build practical ML + backend systems that ship: recommendation engines, CV-pow
 [![Flask](https://img.shields.io/badge/Flask-API-black)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue)](#)
 [![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-success)](#)
+[![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow)](#)
+[![NLP](https://img.shields.io/badge/NLP-Text--Classification-red)](#)
+
 
 ## Highlights
 - 🧪 **NSF-funded research @ MAGIC Lab (UW–Madison)** — co-built an embodied-learning game (**THVO**) with a webcam pose pipeline; **30+ students** used it in pilot; **2+ GB** of pose data collected for study.
