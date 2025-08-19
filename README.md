@@ -32,12 +32,9 @@ Production-style collaborative filtering service (PyTorch) with REST API, offlin
 ### [Developer Support Chatbot](https://github.com/asogani23/Developer-Support-Chatbot)
 RAG assistant for repo/docs. Ingests markdown + code, retrieves relevant chunks, and answers with citations. Includes an evaluation harness.
 
----
+### [Fine-tuning LLM - Covid Stance Project](https://github.com/asogani23/covid_stance_project.git)
+Fine-tuned Google’s Flan-T5 Large on COVID-19 stance detection, boosting weighted F1 from 0.54 (zero-shot) to 0.78 through oversampling, error analysis, and a reproducible HuggingFace + PyTorch pipeline.
 
-## Experience
-**Undergraduate Researcher — MAGIC Lab @ UW–Madison**  
-Built gameplay & data infra for THVO; integrated CV pose tracking for embodied learning; ran classroom pilots; collaborated with HCI researchers and teachers.  
-*Tech:* Python, Flask, MediaPipe, OpenCV, Git/GitHub, JSON serialization.
 
 ---
 
