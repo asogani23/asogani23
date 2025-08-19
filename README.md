@@ -14,7 +14,7 @@ I build practical ML + backend systems that ship: recommendation engines, CV-pow
 - 🤖 **Developer Support Chatbot** — retrieval-augmented Q&A that answers “how do I…?” questions about a codebase.
 
 **Interests:** ML systems · Recommenders · Computer Vision · Human-in-the-loop tooling  
-**Stack:** Python, PyTorch, Flask/FastAPI, OpenCV/MediaPipe, NumPy/Pandas, Postgres, Docker, GitHub Actions
+**Stack:** Python, PyTorch, Flask/FastAPI, OpenCV/MediaPipe, NumPy/Pandas, Postgres, Docker, GitHub Actions, HuggingFace
 
 ---
 
@@ -39,7 +39,7 @@ Fine-tuned Google’s Flan-T5 Large on COVID-19 stance detection, boosting weigh
 ---
 
 ## Skills
-- **ML/AI:** PyTorch, classical CF (ALS/SGD), eval (MAP/NDCG/Precision@K), RAG patterns
+- **ML/AI:** PyTorch, classical CF (ALS/SGD), eval (MAP/NDCG/Precision@K), RAG patterns, HuggingFace, Transformers, NLP, MLOps
 - **Backend:** Flask/FastAPI, REST, caching, Docker, CI/CD, testing
 - **Data:** NumPy/Pandas, experiment logging, dataset versioning
 - **CV:** MediaPipe, OpenCV, pose-based interaction
