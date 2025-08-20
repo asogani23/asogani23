@@ -15,6 +15,8 @@ I build practical ML + backend systems that ship: recommendation engines, CV-pow
 - 🧪 **NSF-funded research @ MAGIC Lab (UW–Madison)** — co-built an embodied-learning game (**THVO**) with a webcam pose pipeline; **30+ students** used it in pilot; **2+ GB** of pose data collected for study.
 - 🧠 **AI Recommendation Engine** — PyTorch + Flask collaborative filtering with offline eval (MAP@K/NDCG) and a REST API.
 - 🤖 **Developer Support Chatbot** — retrieval-augmented Q&A that answers “how do I…?” questions about a codebase.
+- 🚀 **Covid-Stance Project - LLM Fine Tuning** - Achieved **+44% F1 improvement** over zero-shot baseline
+
 
 **Interests:** ML systems · Recommenders · Computer Vision · Human-in-the-loop tooling  
 **Stack:** Python, PyTorch, Flask/FastAPI, OpenCV/MediaPipe, NumPy/Pandas, Postgres, Docker, GitHub Actions, HuggingFace
