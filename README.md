@@ -28,7 +28,6 @@ I build practical ML + backend systems that ship: recommendation engines, CV-pow
 
 ### [THVO Educational Game — MAGIC Lab (NSF)](https://github.com/asogani23/MAGIC-lab-thvo-summary)
 **Role:** SWE / CV support  
-**Impact:** classroom pilot with **30+** middle-schoolers; **2+ GB** pose data logged  
 **What I did:** gameplay logic; Flask services (levels/saves/logging); UI flows; pose-matching validation (MediaPipe/OpenCV); playtesting & data collection.  
 *Repo is a case study; code private.*
 
